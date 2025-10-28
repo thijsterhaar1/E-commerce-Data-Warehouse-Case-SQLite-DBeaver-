@@ -67,7 +67,7 @@ These SQL views can be directly used for Power BI or Tableau dashboards.
 
 ## 💾 Database File
 
-The SQLite database file (`ecommerce_case.db`) is included for reference.  
+The SQLite database file (`ecom_case.db`) is included for reference.  
 It contains all final tables and SQL views (`vw_fact_orders_clean`, `vw_sales_summary`, and `vw_fact_marketing_summary`) used in this project.  
 You can open it directly in **DBeaver** or any SQLite browser to explore the data and queries.
 
